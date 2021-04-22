@@ -1,6 +1,10 @@
-Hi, These are my (Prashant Maharana's) repos, which are full of bugs, explore with caution, some may hurt your heart specially my 'Hello World' repo U_U...
-P.S. I don't have any repo named like that yo, thanks for visiting by, lots of virtual hugs, may your code be bug-free
-P.S. checkout my portofolia here https://perseus98.github.io/
+Hi, It's Prashant Maharana,
+- 🔭 I’m currently working on some flutter projects,
+- 🌱 I’m currently learning Unity and Blender,
+- 👯 I’m looking to collaborate on anything just ping me at my contacts,
+- ⚡ Fun fact: i've a pro account,
+thanks for visiting by
+P.S. outdated and half editted portofolia here https://perseus98.github.io/
 <!--
 **perseus98/perseus98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
