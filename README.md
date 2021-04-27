@@ -2,7 +2,7 @@ Hi, It's Prashant Maharana,
 - 🔭 I’m currently working on some flutter projects,
 - 🌱 I’m currently learning Unity and Blender,
 - 👯 I’m looking to collaborate on anything just ping me at my contacts,
-- ⚡ Fun fact: i've a pro account,
+
 thanks for visiting by
 P.S. outdated and half editted portofolia here https://perseus98.github.io/
 <!--
